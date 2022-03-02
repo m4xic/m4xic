@@ -1,4 +1,4 @@
-# Hiiii! I'm Max ([he/him](https://pronoun.is/he/him)) ✨
+# Hiiii! I'm Max ([he/him](https://name.pn/max-chunsi)) ✨
 
 - I'm 21, and I live in London 🇬🇧
 - I'm a graduate of Cyber Security from the [University of Warwick](https://warwick.ac.uk), currently working at [Lloyds Banking Group](https://lloydsbanking.com/) 👨🏽‍💻
