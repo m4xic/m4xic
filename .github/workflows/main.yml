@@ -52,3 +52,7 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Europe/Paris
